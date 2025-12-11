@@ -1,0 +1,5 @@
+{
+  "name": "TeleZip Script Generator",
+  "description": "A utility to generate a secure Python script that zips, encrypts, and uploads directories to Telegram with upload progress tracking.",
+  "requestFramePermissions": []
+}
